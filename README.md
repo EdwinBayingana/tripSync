@@ -1,26 +1,26 @@
-# tripSync
+# TripSync
 
-## ℹ️ Description
+## ℹDescription
 
 This project is a real-time tracking system for trip-sharing, developed using React.js and the Google Maps API. It continuously updates the driver's location every three seconds to reflect their realtime position.
 
-## 🧬 Live Site
+## Live Demo
 
-**_[Live Site](https://tripSync.vercel.app/)_**
+**_[Live Demo](https://trip-sync-two.vercel.app/)_**
 
-## 🔮 Tech Stack
+## Tech Stack
 
 - React
-- Typescript
+- TypeScript
 - Tailwindcss
 
-## 📦 Installation
+## Installation
 
 ```bash
 pnpm install
 ```
 
-## 🚀 Running the app
+## Running the app locally
 
 ```bash
 
